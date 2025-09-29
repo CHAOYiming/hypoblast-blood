@@ -10,7 +10,7 @@ The re-used published data has been deposited here:
 The in-house sequencing matrix has been deposited here: 
 1. HEMO from d1-d10: https://www.dropbox.com/scl/fo/58bih6gikizyh8exh9agh/AGShN5qq10-mmSc4Ar-srHA?rlkey=n1xdqcwh7yckchh9me521lfud&st=y1p0ubi0&dl=0.
 2. larry-barcoded HEMO from two timepoints (d4, d12): https://drive.google.com/drive/folders/1oQZTiNSTdNOoNjWJvlpcrbJNxnDnUBP-?usp=drive_link
-3. WT and CDX2-KO Peri-gastruloid from two timepoints (WT: d4/d8; KO: d6/d8): 
+3. WT and CDX2-KO Peri-gastruloid from two timepoints (WT: d4/d8; KO: d6/d8): https://drive.google.com/drive/folders/13x08RM6DQTaOyLVfwWwPyNl0xN3A5jKi?usp=drive_link
 
 Contact: Yiming Chao, Hongji Li, Rio Sugimura
 Email: chym@connect.hku.hk, troyli990601@connect.hku.hk, rios@hku.hk
