@@ -10,8 +10,6 @@ The in-house sequencing matrix has been deposited here:
 
 ## Analysis scripts structure:
 
-## Analysis Scripts Structure
-
 ```
 scripts/
 │
