@@ -29,7 +29,7 @@ scripts/
 │   ├── 04_clone_analysis.ipynb
 │   └── 05_lineage.py
 │
-└── PERI_GAS/
+└── PeriGas/
     ├── 01_qc.ipynb
     ├── 02_integration.ipynb
     ├── 03_annotation.ipynb
