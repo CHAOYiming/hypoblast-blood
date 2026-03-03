@@ -10,6 +10,9 @@ The in-house sequencing matrix has been deposited here:
 
 ## Analysis scripts structure:
 
+## Analysis Scripts Structure
+
+```
 scripts/
 │
 ├── HCEB/
@@ -17,22 +20,22 @@ scripts/
 │   ├── 02_integration.ipynb
 │   ├── 03_annotation.ipynb
 │   ├── 04_blood_trajectory.ipynb
-│   ├── 05_endo_subtype.ipynb
+│   └── 05_endo_subtype.ipynb
 │
 ├── LARRY/
 │   ├── 01_qc.ipynb
 │   ├── 02_annotation.ipynb
 │   ├── 03_barcode_preprocess.ipynb
 │   ├── 04_clone_analysis.ipynb
-│   ├── 05_lineage.py
+│   └── 05_lineage.py
 │
-├── PERI_GAS/
-│   ├── 01_qc.ipynb
-│   ├── 02_integration.ipynb
-│   ├── 03_annotation.ipynb
-│   ├── 04_wt_ko.ipynb
-│   └── 05_function.ipynb
-
+└── PERI_GAS/
+    ├── 01_qc.ipynb
+    ├── 02_integration.ipynb
+    ├── 03_annotation.ipynb
+    ├── 04_wt_ko.ipynb
+    └── 05_function.ipynb
+```
 
 Contact: Yiming Chao, Hongji Li, Rio Sugimura
 
