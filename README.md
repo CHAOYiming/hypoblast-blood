@@ -8,7 +8,7 @@ https://petropoulos-lanner-labs.clintec.ki.se/dataset.download.html
 Mouse embryo dataset [PMID: 30787436] can be retrieved from the MouseGastrulationData repository:
 https://github.com/MarioniLab/MouseGastrulationData
 
-human blastocyst dataset [PMID: 38277271] can be downloaded from GEO: 
+Human blastocyst dataset [PMID: 38277271] can be downloaded from GEO: 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE136106
 
 The in-house sequencing matrix has been deposited here: 
