@@ -18,6 +18,11 @@ The in-house sequencing matrix has been deposited here:
 ```
 scripts/
 │
+├── public_data/
+│   ├── 01_human_embryo_reanalysis.R
+│   ├── 02_mouse_embryo_reanalysis.R
+│   └── 03_icm_bulk.R
+│
 ├── HCEB/
 │   ├── 01_qc.ipynb
 │   ├── 02_integration.ipynb
