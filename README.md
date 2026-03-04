@@ -2,6 +2,11 @@
 Blood is essential for oxygen supply throughout life. The emergence of blood in the human embryo remains poorly understood. Our study leverages multiple stem cell embryo models and advanced lineage barcoding to unveil that hypoblast, originally regarded as forming the yolk sac wall, is heterogeneous and contributes to CDX2+ extraembryonic mesoderm, followed by hemoglobin+ cells as the first blood cells. CDX2 marks the hypoblast-to-hemoglobin+ cell trajectory that functionally sustains oxygen levels in embryo models. These hemoglobin+ cells molecularly and functionally resemble phagocytes. We show that the erythro-core regulatory network is poised in hypoblasts, and its boost endows erythropoiesis to both hypoblasts and phagocytes. Hypoblasts are the origin of the first blood in humans and non-human primates, providing a conceptual framework that earlier blood generation than expected fills the gap in the establishment of circulation. Further, the hypoblast is a place where primates may repurpose the phagocyte program to carry oxygen throughout embryos.
 
 ## The download linke of processed files: 
+Human embryo scRNA-seq datasets can be downloaded from Fredrik Lanner’s lab website: 
+https://petropoulos-lanner-labs.clintec.ki.se/dataset.download.html
+
+Mouse embryo dataset can be retrieved from the MouseGastrulationData repository
+https://github.com/MarioniLab/MouseGastrulationData
 
 The in-house sequencing matrix has been deposited here: 
 1. HEMO from d1-d10: https://www.dropbox.com/scl/fo/58bih6gikizyh8exh9agh/AGShN5qq10-mmSc4Ar-srHA?rlkey=n1xdqcwh7yckchh9me521lfud&st=y1p0ubi0&dl=0.
