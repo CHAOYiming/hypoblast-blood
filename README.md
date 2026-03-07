@@ -18,6 +18,8 @@ The in-house sequencing matrix has been deposited here:
 
 ## Analysis scripts in this repo:
 
+## Analysis Scripts Structure
+
 ```
 scripts/
 │
@@ -40,12 +42,16 @@ scripts/
 │   ├── 04_clone_analysis.ipynb
 │   └── 05_lineage.py
 │
-└── PeriGas/
-    ├── 01_qc.ipynb
-    ├── 02_integration.ipynb
-    ├── 03_annotation.ipynb
-    ├── 04_wt_ko.ipynb
-    └── 05_function.ipynb
+├── PeriGas/
+│   ├── 01_qc.ipynb
+│   ├── 02_integration.ipynb
+│   ├── 03_annotation.ipynb
+│   ├── 04_wt_ko.ipynb
+│   └── 05_function.ipynb
+│
+└── CRISPRa/
+    ├── 01_CRISPRa_preprocess.sh
+    └── 02_CRISPRa_downstream_analysis.R
 ```
 
 Contact: Yiming Chao, Hongji Li, Rio Sugimura
