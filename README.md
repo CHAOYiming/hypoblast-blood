@@ -18,8 +18,6 @@ The in-house sequencing matrix has been deposited here:
 
 ## Analysis scripts in this repo:
 
-## Analysis Scripts Structure
-
 ```
 scripts/
 │
