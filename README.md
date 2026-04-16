@@ -33,7 +33,8 @@ scripts/
 │   ├── 02_integration.ipynb
 │   ├── 03_annotation.ipynb
 │   ├── 04_blood_trajectory.ipynb
-│   └── 05_endo_subtype.ipynb
+│   ├── 05_endo_subtype.ipynb
+│   └── 06_tvae_stage_d4_10.ipynb
 │
 ├── LARRY/
 │   ├── 01_qc.ipynb
@@ -47,11 +48,13 @@ scripts/
 │   ├── 02_integration.ipynb
 │   ├── 03_annotation.ipynb
 │   ├── 04_wt_ko.ipynb
-│   └── 05_function.ipynb
+│   ├── 05_function.ipynb
+│   └── 06_tvae_stage_wt.ipynb
 │
 └── CRISPRa/
     ├── 01_CRISPRa_preprocess.sh
-    └── 02_CRISPRa_downstream_analysis.R
+    ├── 02_CRISPRa_downstream_analysis.R
+    └── 03_CRISPRa_screen_library_summary.xls
 ```
 
 Contact: Yiming Chao, Hongji Li, Rio Sugimura
