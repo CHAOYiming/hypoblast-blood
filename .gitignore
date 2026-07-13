@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Large single-cell data
+*.h5ad
+*.loom
+*.h5
+*.mtx
+*.mtx.gz
+
+# IDE and local environment
+.vscode/
+.idea/
+.env
+
+# Temporary files
+tmp/
+temp/
+logs/
