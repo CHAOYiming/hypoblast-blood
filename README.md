@@ -29,9 +29,10 @@ hypoblast-blood/
 │   ├── 01_human_embryo_reanalysis.R
 │   ├── 02_mouse_embryo_reanalysis.R
 │   ├── 03_icm_bulk.R
-│   ├── 01_lcxyw_construction.ipynb
-│   ├── 02_lcxyw_hceb_exm_mapping.ipynb
-│   └── 03_cs6_hceb_exm_mapping.ipynb
+│   ├── 04_lcxyw_construction.ipynb
+│   ├── 05_lcxyw_hceb_exm_mapping.ipynb
+│   ├── 06_cs6_hceb_exm_mapping.ipynb
+│   └── 07_lanner_wot_full_visualization.ipynb
 │
 ├── HCEB/
 │   ├── 01_qc.ipynb
@@ -58,8 +59,7 @@ hypoblast-blood/
 │   ├── 03_annotation.ipynb
 │   ├── 04_wt_ko.ipynb
 │   ├── 05_function.ipynb
-│   ├── 06_tvae_stage_wt.ipynb
-│   └── 07_lanner_wot_full_visualization.ipynb
+│   └── 06_tvae_stage_wt.ipynb
 │
 └── CRISPRa/
     ├── 01_CRISPRa_preprocess.sh
