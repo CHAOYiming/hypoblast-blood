@@ -90,7 +90,38 @@ The main computational analyses were performed using:
 
 The full Python/conda environment is provided in `environment.yml`.
 
+## Figure-to-script mapping
 
-Contact: Yiming Chao, Hongji Li, Rio Sugimura
+| Manuscript panel | Analysis | Script / notebook |
+|---|---|---|
+| Fig. 1E–F | HCEB single-cell integration, annotation, and characterization of extraembryonic mesoderm states | `HCEB/02_integration.ipynb`; `HCEB/03_annotation.ipynb`; `HCEB/03_hceb_exm_visualization.ipynb` |
+| Extended Data Fig. 1A | Marker-gene visualization for HCEB cell-type annotation | `HCEB/03_annotation.ipynb`; `HCEB/03_hceb_exm_visualization.ipynb` |
+| Extended Data Fig. 1B | Cell-type composition across the HCEB time course | `HCEB/03_hceb_exm_visualization.ipynb` |
+| Extended Data Fig. 1C | TemporalVAE developmental-stage mapping of HCEBs | `HCEB/06_tvae_stage_d4_10.ipynb` |
+| Fig. 2A–B | Construction and visualization of the integrated human embryo reference atlas | `public_data/04_lcxyw_construction.ipynb` |
+| Fig. 2C–F | Projection of HCEB-derived ExM populations onto the integrated human embryo reference and ExM-program comparison | `public_data/05_lcxyw_hceb_exm_mapping.ipynb` |
+| Fig. 2G–H | Reanalysis of the CS6 human embryo and projection of HCEB-derived Trans ExM | `public_data/06_cs6_hceb_exm_mapping.ipynb` |
+| Fig. 2I | Slingshot trajectory inference across epiblast-, hypoblast-, and mesoderm-associated populations | `public_data/07_lanner_slingshot.R` |
+| Fig. 2J | Waddington-OT fate-probability analysis of early hypoblast | `public_data/07_lanner_wot_full_visualization.ipynb` |
+| Extended Data Fig. 2A | Early human embryo lineage-reference visualization | `public_data/04_lcxyw_construction.ipynb` |
+| Extended Data Fig. 2B–C | Slingshot lineage trajectories and lineage summaries | `public_data/07_lanner_slingshot.R` |
+| Extended Data Fig. 2D | Waddington-OT fate-probability analysis | `public_data/07_lanner_wot_full_visualization.ipynb` |
+| Fig. 3B | Annotation and visualization of Day 4 LARRY-barcoded HCEBs | `LARRY/01_hceb_larry_annotation_visualization.ipynb` |
+| Fig. 3C–D | Day 4 clone-sharing and permutation-based enrichment analysis | `LARRY/03_hceb_larry_basic_clonality.ipynb`; `LARRY/04_hceb_larry_clone_visualization.ipynb` |
+| Fig. 3E–F | Day 4 endoderm subclustering and clone sharing with Trans ExM | `HCEB/05_endo_subtype.ipynb`; `LARRY/04_hceb_larry_clone_visualization.ipynb` |
+| Fig. 3H–I | Day 7 LARRY annotation and clone-sharing analysis | `LARRY/01_hceb_larry_annotation_visualization.ipynb`; `LARRY/03_hceb_larry_basic_clonality.ipynb`; `LARRY/04_hceb_larry_clone_visualization.ipynb` |
+| Fig. 3J–K | Day 12 LARRY annotation and clone-sharing analysis | `LARRY/01_hceb_larry_annotation_visualization.ipynb`; `LARRY/03_hceb_larry_basic_clonality.ipynb`; `LARRY/04_hceb_larry_clone_visualization.ipynb` |
+| Extended Data Fig. 3A–C | Day 4 LARRY clone-size QC and epiblast clone-sharing analysis | `LARRY/03_hceb_larry_basic_clonality.ipynb`; `LARRY/04_hceb_larry_clone_visualization.ipynb` |
+| Extended Data Fig. 3E–F | Day 7 clone-size QC and clone-sharing enrichment | `LARRY/03_hceb_larry_basic_clonality.ipynb`; `LARRY/04_hceb_larry_clone_visualization.ipynb` |
+| Extended Data Fig. 3G | Day 12 clone-size QC | `LARRY/03_hceb_larry_basic_clonality.ipynb` |
+| Extended Data Fig. 6B–D | WT versus CDX2-KO peri-gastruloid single-cell integration, annotation, and functional/module-score analyses | `PeriGas/02_integration.ipynb`; `PeriGas/03_annotation.ipynb`; `PeriGas/04_wt_ko.ipynb`; `PeriGas/05_function.ipynb` |
+| Extended Data Fig. 6E | Reanalysis of human blastocyst bulk RNA-seq data | `public_data/03_icm_bulk.R` |
+| Extended Data Fig. 8B–C | WT versus CDX2-KO differential expression and visualization of LMO2 | `PeriGas/04_wt_ko.ipynb`; `PeriGas/05_function.ipynb` |
+| Fig. 6C | CRISPRa sgRNA preprocessing, MAGeCK enrichment analysis, and candidate ranking | `CRISPRa/01_CRISPRa_preprocess.sh`; `CRISPRa/02_CRISPRa_downstream_analysis.R` |
+
+
+## Contact
+
+Yiming Chao, Hongji Li, Rio Sugimura
 
 Email: chym@connect.hku.hk, troyli990601@connect.hku.hk, rios@hku.hk
