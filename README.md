@@ -69,6 +69,28 @@ hypoblast-blood/
     └── 03_CRISPRa_screen_library_summary.xls
 ```
 
+## Software and package versions
+
+The main computational analyses were performed using:
+
+- Python 3.10.20
+- Scanpy 1.11.5
+- AnnData 0.11.4
+- NumPy 2.2.6
+- pandas 2.3.3
+- SciPy 1.15.3
+- scikit-learn 1.7.2
+- Matplotlib 3.10.9
+- BBKNN 1.6.0
+- leidenalg 0.11.0
+- umap-learn 0.5.12
+- Waddington-OT (`wot`) 1.0.8.post2
+- POT 0.9.6.post1
+- statsmodels 0.14.6
+
+The full Python/conda environment is provided in `environment.yml`.
+
+
 Contact: Yiming Chao, Hongji Li, Rio Sugimura
 
 Email: chym@connect.hku.hk, troyli990601@connect.hku.hk, rios@hku.hk
